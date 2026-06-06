@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.moodtrip.app-debug-3:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/saufanridho/Downloads/DB/MoodTripAndroid/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "472"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "230",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "647"
+                    }
+                },
+                {
+                    "source": "/Users/saufanridho/Downloads/DB/MoodTripAndroid/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,5,2,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "144,185,55,97",
+                        "endColumns": "40,44,41,46",
+                        "endOffsets": "180,225,92,139"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,96,141,183",
+                        "endColumns": "40,44,41,46",
+                        "endOffsets": "91,136,178,225"
+                    }
+                }
+            ]
+        }
+    ]
+}

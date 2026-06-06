@@ -1,0 +1,7 @@
+com.moodtrip.app
+color accent
+color background
+color primary
+color primary_dark
+drawable ic_launcher
+style AppTheme

@@ -1,0 +1,7 @@
+com.moodtrip.app-pngs-0 /Users/saufanridho/Downloads/DB/MoodTripAndroid/app/build/generated/res/pngs/debug
+com.moodtrip.app-updated_navigation_xml-1 /Users/saufanridho/Downloads/DB/MoodTripAndroid/app/build/generated/updated_navigation_xml/debug
+com.moodtrip.app-packageDebugResources-2 /Users/saufanridho/Downloads/DB/MoodTripAndroid/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.moodtrip.app-packageDebugResources-3 /Users/saufanridho/Downloads/DB/MoodTripAndroid/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.moodtrip.app-debug-4 /Users/saufanridho/Downloads/DB/MoodTripAndroid/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.moodtrip.app-debug-5 /Users/saufanridho/Downloads/DB/MoodTripAndroid/app/src/debug/res
+com.moodtrip.app-main-6 /Users/saufanridho/Downloads/DB/MoodTripAndroid/app/src/main/res

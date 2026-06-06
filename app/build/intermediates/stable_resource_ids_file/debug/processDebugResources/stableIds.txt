@@ -1,0 +1,6 @@
+com.moodtrip.app:drawable/ic_launcher = 0x7f020000
+com.moodtrip.app:color/primary = 0x7f010002
+com.moodtrip.app:color/primary_dark = 0x7f010003
+com.moodtrip.app:color/background = 0x7f010001
+com.moodtrip.app:style/AppTheme = 0x7f030000
+com.moodtrip.app:color/accent = 0x7f010000
