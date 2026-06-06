@@ -24,15 +24,6 @@ MoodTrip adalah aplikasi MVP Smart Tourism untuk Mataram/Lombok. Aplikasi ini me
 - Nasi Balap Puyung.
 - Kafe Ampenan Heritage.
 
-## Cara Run di Android Studio
-
-1. Buka Android Studio.
-2. Pilih `Open`.
-3. Pilih folder `MoodTripAndroid`.
-4. Tunggu Gradle sync selesai.
-5. Pilih emulator atau device Android.
-6. Klik `Run`.
-
 ## Catatan MVP
 
 Map pada versi ini masih berupa visual map custom, bukan Google Maps asli. Ini sengaja dibuat agar MVP bisa langsung dijalankan tanpa API key. Jika ingin naik ke versi berikutnya, map bisa diganti dengan Google Maps SDK atau Mapbox.
